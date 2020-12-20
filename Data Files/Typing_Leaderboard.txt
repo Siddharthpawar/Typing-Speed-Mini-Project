@@ -1,0 +1,8 @@
+ramesh 45.6 100.0
+siddarth 43.2 100.0
+raashi 50.4 95.5
+sushmitha 43.2 100.0
+ravi 40.8 100.0
+divya 34.8 76.3
+naveen 31.2 100.0
+siddharth 28.8 96.0
