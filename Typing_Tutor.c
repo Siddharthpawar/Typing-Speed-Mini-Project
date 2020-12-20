@@ -6,7 +6,7 @@
 
 COORD coord = {0, 0};
 // int totalLines = 0;
-Slee
+
 void userRegistration();
 void userLogin();
 void adminLogin();
