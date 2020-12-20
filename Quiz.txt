@@ -1,0 +1,32 @@
+~
+C language was developed by?dennis ritchie
+C language was developed in the year?1972
+Which language is a superset of C?c++
+C language was developed to write?operating system
+C language suitable for system programming(true/false)?true
+~
+Which dominates the pc world?windows
+Percentage of pc's that run windows?90
+What does windows provide?gui
+Microsoft offers os for mobiles(true/false)?true
+Microsoft offers a web framework(true/false)?false
+~
+Java was created in?1995
+Java is use for mobile applications(true/false)?true
+Java works only on windows(true/false)?false
+Java is a structure oriented language(true/false)?false
+Which company owns java?oracle
+~
+Python was released in?1991
+Python is cross platform programming language(true/false)?true
+Python is a structure oriented language(true/false)?false
+Python can be used for web development(true/false)?true
+Syntax of python is(simple/complex)?simple
+~
+HTML stands for Higher Text Markup Language(true/false)?false
+HTML describes the structure of a?web page
+HTML elements tell the browser how to display the content(true/false)?true
+HTML elements label pieces of content(true/false)?true
+HTML is used for creating mobile applications(true/false)?false
+
+
