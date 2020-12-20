@@ -1,5 +1,0 @@
-john 0
-john 2
-john 0
-john 6
-john 8
